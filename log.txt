@@ -1,0 +1,410 @@
+noel123 said Okay at 15:55:22
+Alvuu said will this work on the latest minecraft bedrock version at 16:14:52
+Alvuu said 1.17.34.02 at 16:14:58
+Kundarageze said If your on mobile no unless you run a server and use the no ui version but on pc it should work fine at 16:18:06
+Alvuu said Aternos at 16:20:55
+Alvuu said doesnt work at 16:20:56
+Alvuu said at all at 16:20:57
+Alvuu said i'm tired at 16:21:01
+Alvuu said of trying at 16:21:03
+Alvuu said <@!775943415439294504> can u help? at 16:21:56
+Alvuu said with this at 16:21:58
+Alvuu said can anyone help? at 16:23:26
+Alvuu said :(( at 16:23:27
+Alvuu said can anyone helpuu? at 16:23:43
+Alvuu said <:RemCry:888994479439220816> at 16:23:44
+Alvuu said it works locally on pc at 16:26:23
+Alvuu said but aternos at 16:26:26
+Alvuu said no luck at 16:26:28
+HR3Edits said Of course at 16:30:33
+HR3Edits said Sup at 16:30:50
+HR3Edits said I see you are on PC? at 16:30:54
+HR3Edits said <@818915425651392612> ? at 16:31:34
+Alvuu said Yes at 16:31:59
+Alvuu said I tried locally on my pc at 16:32:16
+Alvuu said it works at 16:32:17
+Alvuu said but when i do it at 16:32:21
+Alvuu said with aternos at 16:32:23
+Alvuu said it doesnt at 16:32:27
+Alvuu said and i cant find any clear instructions at 16:32:34
+Alvuu said anywhere at 16:32:35
+Alvuu said so please help me at 16:32:38
+HR3Edits said But if you have a PC why do you than also want it on the phone? at 16:32:39
+Alvuu said my friend plays on phone at 16:32:56
+Alvuu said and other on console at 16:33:00
+Alvuu said so i want both of them at 16:33:03
+HR3Edits said Than you can host the world with your PC and they can join you at 16:33:31
+HR3Edits said And than you have to use the no UI version at 16:33:41
+Alvuu said i tested that on my pc it works, but i cant leave my pc on 24/7 so yeah. at 16:34:26
+Alvuu said i exported my experimental world on aternos at 16:35:03
+Alvuu said added the addon at 16:35:06
+Alvuu said <:hmm:690909372338929674> at 16:35:16
+Alvuu said the blocks shows at 16:35:24
+Alvuu said but dont work at 16:35:29
+HR3Edits said Nope but they will probably not join 24/7 it's the best advice I can give, I do the same with a friend of mine.
+
+Aternos is probably a Linux based server which can't use the scripting engine.
+
+You should find a windows based server, or ask for help through aternos but they won't be of help either. at 16:36:14
+Alvuu said O,O at 16:36:35
+Alvuu said I was wondering the same at 16:36:38
+Alvuu said <a:A_claps:858720486090342410> at 16:36:41
+Alvuu said is idley.gg at 16:36:48
+Alvuu said windows based? at 16:36:50
+Alvuu said <:A_kanna_confused:850245139099680798> at 16:36:52
+HR3Edits said So google could help you find a windows based server, but the changes are slim of finding it since it generally costs more at 16:37:00
+HR3Edits said Yeah windows system based at 16:37:07
+Alvuu said i dont think i wont find any windows based system which are free like aternos, at 16:37:32
+HR3Edits said Probably noy at 16:37:46
+HR3Edits said Not at 16:37:47
+HR3Edits said I use my PC and keep it on like 12/7
+
+12 hours per day at 16:38:11
+Alvuu said hmm at 16:38:18
+Alvuu said <:hmm:690909372338929674> at 16:38:21
+HR3Edits said https://tenor.com/view/over-it-leave-me-alone-fuckoff-stressed-gif-15243809 at 16:38:30
+Alvuu said windows 11 supports arm based now, and people tried using raspberry pi 4  and installing windows 11 on it, it worked. at 16:39:27
+Alvuu said so, at 16:39:34
+Alvuu said maybe i can host a server at 16:39:39
+Alvuu said there at 16:39:41
+Alvuu said <:ASshrug02:580921219835232297> at 16:39:46
+Alvuu said i can leave that thing running all day at 16:40:06
+Alvuu said if that actually works at 16:40:11
+HR3Edits said You could try, idk how much ram windows 11 needs. But the server itself costs some too at 16:40:11
+Alvuu said raspberry pi 4 has 8gb ram max, at 16:40:40
+Alvuu said i think at 16:40:42
+Alvuu said it can pull off at 16:40:45
+Alvuu said <a:A_claps:858720486090342410> at 16:40:46
+HR3Edits said That's enough at 16:40:49
+HR3Edits said Haha at 16:40:51
+Alvuu said yeah at 16:40:52
+HR3Edits said Let me know if you get it running 😁 at 16:41:08
+Alvuu said I will let you know at 16:41:26
+Alvuu said Sir at 16:41:28
+Alvuu said <a:A_claps:858720486090342410> at 16:41:29
+Alvuu said ee i'm leveling like crazy at 16:41:45
+Alvuu said x-x at 16:41:48
+Alvuu said top right u can see at 16:41:51
+Alvuu said question: can u modify your plugin to work on linux based system? at 16:43:50
+Alvuu said <a:A_claps:858720486090342410> <:chibi_wow:787685049981468683> at 16:43:52
+Alvuu said and i never got this option on aternos at 16:53:29
+Alvuu said meh, at 16:53:35
+noel123 said !nsfw at 16:55:55
+Alvuu said its not at 17:25:10
+Alvuu said ever since google filling lawsuit on the music bots of discord at 17:25:38
+Alvuu said they themselves at 17:25:46
+Alvuu said maded the bot at 17:25:48
+Alvuu said https://top.gg/bot/393673098441785349 at 17:25:49
+Alvuu said <:ASshrug02:580921219835232297> at 17:25:51
+HR3Edits said the music part is 😄 at 17:26:01
+Alvuu said <:hmm:690909372338929674> at 17:26:11
+Nyan Cat said Wait they actually made a discord music YT bot thing at 17:26:13
+Nyan Cat said Kinda poggers at 17:26:17
+Alvuu said yeah at 17:26:18
+Alvuu said not poggers at 17:26:22
+Nyan Cat said Gonna add it to another server I'm in rq at 17:26:26
+Alvuu said cuz they took down at 17:26:26
+Alvuu said many famous at 17:26:32
+Alvuu said music bots at 17:26:34
+Alvuu said Rythm at 17:26:41
+Nyan Cat said Wait but at least they're making an alternative to us at 17:26:42
+Alvuu said groovy at 17:26:44
+Alvuu said its not as cool as groovy rythm was at 17:26:56
+Alvuu said its like boomer level at 17:26:59
+Alvuu said music bot at 17:27:01
+Nyan Cat said I thought music bots would just kinda never exist at 17:27:04
+Alvuu said like mee6 at 17:27:08
+Nyan Cat said At least there is something we can do at 17:27:12
+Nyan Cat said We can use at 17:27:17
+Alvuu said well u can watch youtube on discord at 17:27:18
+Alvuu said <a:A_claps:858720486090342410> at 17:27:20
+Alvuu said called discord_activities at 17:27:24
+Alvuu said host youtube on vc at 17:27:29
+Alvuu said and watch at 17:27:30
+Alvuu said https://discord.bots.gg/bots/819778342818414632 at 17:27:44
+Alvuu said this one at 17:27:46
+Nyan Cat said Ty for the lknk, I'll add it now, because I can't be asked to later lol at 17:28:13
+Alvuu said anytime at 17:28:56
+Alvuu said <a:A_claps:858720486090342410> at 17:28:57
+HR3Edits said added it at 17:30:53
+Alvuu said oh my at 17:31:12
+HR3Edits said Nope the whole scripting engine doesn't work in linux :)( at 17:31:30
+Activities said [Click to open Word Snacks in General](<https://discord.gg/3NfnWqYpav>) at 17:31:43
+Alvuu said ee they removed yt at 17:31:48
+Alvuu said dangit at 17:31:50
+Alvuu said click on my profile at 17:32:15
+Alvuu said and join my at 17:32:16
+Alvuu said activity at 17:32:19
+HR3Edits said wots this at 17:32:20
+HR3Edits said how does this game work? at 17:32:53
+Alvuu said click on this at 17:33:03
+HR3Edits said yeah but what do I do with the letters? at 17:33:14
+Activities said [Click to open Watch Together in General](<https://discord.gg/A4UjsJ38ux>) at 17:33:18
+Alvuu said no no at 17:33:22
+Alvuu said come here at 17:33:23
+Alvuu said i found it at 17:33:24
+Nyan Cat said Wait what that just sends me to <#778629664851230722> at 17:33:42
+Alvuu said look bot streaming at 17:34:21
+Alvuu said youtube at 17:34:22
+Alvuu said and audio at 17:34:24
+Alvuu said <a:A_claps:858720486090342410> at 17:34:26
+Nyan Cat said Oh at 17:34:37
+Nyan Cat said Nice at 17:34:38
+HR3Edits said how can I join the stream? at 17:34:46
+Alvuu said u can join me by clicking on my at 17:34:50
+Alvuu said profile at 17:34:51
+Alvuu said and join the at 17:34:54
+Alvuu said actifvity at 17:34:56
+Alvuu said i think at 17:34:57
+Alvuu said wait at 17:34:58
+Alvuu said wait at 17:34:59
+Nyan Cat said It don't show nothing lol at 17:35:10
+Alvuu said what about now at 17:35:19
+Alvuu said u need to wait at 17:35:39
+Alvuu said here at 17:35:51
+Nyan Cat said OK I can see but I can't join at 17:35:53
+Nyan Cat said I'm on mobile tho at 17:35:59
+Alvuu said why not? at 17:35:59
+Alvuu said <:hmm:690909372338929674> at 17:36:00
+Alvuu said oh at 17:36:03
+Alvuu said pc works, at 17:36:04
+HR3Edits said I am on pc at 17:36:05
+HR3Edits said but it doesn't work 😦 at 17:36:12
+Nyan Cat said Yeah, might just be mobile at 17:36:12
+Nyan Cat said Oh at 17:36:16
+Alvuu said join at 17:36:42
+Alvuu said activity at 17:36:44
+Alvuu said yes3 at 17:36:46
+Alvuu said leave activity at 17:37:33
+Alvuu said then join at 17:37:35
+Alvuu said <:hmm:690909372338929674> at 17:37:35
+HR3Edits said 😦 at 17:37:52
+Nyan Cat said I kinda don't think it works on mobile at 17:37:56
+Nyan Cat said Like whatsoever at 17:38:00
+Alvuu said it doesnt for now, at 17:38:06
+Alvuu said its experimental feature at 17:38:15
+Alvuu said of discord at 17:38:17
+Alvuu said <a:A_claps:858720486090342410> at 17:38:18
+Nyan Cat said Oh at 17:38:20
+Nyan Cat said Ok at 17:38:22
+Alvuu said try this? at 17:38:29
+Activities said [Click to open Watch Together in General](<https://discord.gg/A4UjsJ38ux>) at 17:38:35
+Alvuu said click on this at 17:38:38
+Alvuu said hr3 at 17:38:42
+Activities said [Click to open Watch Together in General](<https://discord.gg/A4UjsJ38ux>) at 17:38:43
+No Soy Acosador Sexual 777 said Hello good I do not speak English very well I only have a question is the pugglin for the phone at 17:38:54
+Alvuu said :(( at 17:39:39
+Nyan Cat said You can use the plugin on mobile, but you will have to use the version labelled "no ui" and you will have to create a server using something like aternos for it to work. at 17:39:44
+Alvuu said i'm using discord ptb, at 17:39:45
+Alvuu said <:hmm:690909372338929674> at 17:39:54
+HR3Edits said ohhh at 17:39:59
+Alvuu said maybe thats the reason? at 17:40:05
+HR3Edits said probably haha at 17:40:09
+Alvuu said but my friends at 17:40:14
+Alvuu said used normal at 17:40:16
+Alvuu said discord at 17:40:17
+HR3Edits said hmmm at 17:40:26
+Alvuu said it worked at 17:40:27
+No Soy Acosador Sexual 777 said OK thank you at 17:40:30
+Alvuu said maybe try later at 17:40:30
+Alvuu said use the slash command at 17:40:35
+Alvuu said its easy at 17:40:36
+Alvuu said <3, at 17:40:37
+Nyan Cat said No problem. at 17:40:45
+No Soy Acosador Sexual 777 said :3 at 17:40:51
+Alvuu said but for youtube music at 17:41:44
+Alvuu said u havbe the other bot <3, at 17:41:50
+Alvuu said i gtg now at 17:41:52
+Alvuu said friend at 17:41:53
+HR3Edits said alright haha at 17:42:32
+HR3Edits said I will try at 17:42:34
+HR3Edits said cya soon! at 17:42:42
+Activities said [Click to open Watch Together in General](<https://discord.gg/A4UjsJ38ux>) at 17:42:51
+Activities said [Click to open Watch Together in General](<https://discord.gg/A4UjsJ38ux>) at 17:43:36
+HR3Edits said its working at 17:43:51
+Activities said [Click to open Watch Together in General](<https://discord.gg/A4UjsJ38ux>) at 17:44:38
+HR3Edits said you are already level 8 😄 at 17:49:16
+HR3Edits said top 5 in leaderboard at 17:49:23
+HR3Edits said !leaderboard at 17:49:26
+Nyan Cat said Tbh getting on lb is kinda ez at 17:50:19
+HR3Edits said ddfg at 17:50:33
+HR3Edits said adaw at 17:50:35
+HR3Edits said sdf at 17:50:37
+HR3Edits said sdefs at 17:50:40
+HR3Edits said true haha at 17:50:52
+Nyan Cat said I leveled up with that msg at 17:51:11
+HR3Edits said level 9 is about 315 xp at 17:51:18
+Nyan Cat said Also we should prob go <#716391896871862322> at 17:51:29
+HR3Edits said but level 28 is about 4525xp at 17:51:34
+HR3Edits said true haha at 17:51:37
+Nyan Cat said I'd the leveling system exponential at 17:51:48
+Nyan Cat said Is at 17:51:50
+HR3Edits said yeah it should be at 17:52:02
+HR3Edits said or I did something wrong while rewriting it at 17:52:12
+Nyan Cat said Hmm, not sure because getting levels seems to take just the same amount of time, might just be me being dumb, not sure at 17:52:37
+HR3Edits said lvl_end = int(experience**(.40)) at 17:53:00
+HR3Edits said its not haha F at 17:53:03
+Nyan Cat said So is it exponential or linear rn at 17:53:38
+HR3Edits said I believe its linear at 17:53:46
+Nyan Cat said Oh at 17:53:56
+Nyan Cat said Well that isn't right at 17:53:58
+HR3Edits said I will make a quick test run at 17:53:58
+Nyan Cat said Oo at 17:54:02
+Nyan Cat said Ok at 17:54:04
+HR3Edits said this formula should be better at 18:01:12
+HR3Edits said lvl_end = .25 * math.sqrt(experience) at 18:01:13
+Nyan Cat said We'll see at 18:02:51
+HR3Edits said shall I reset all levels? at 18:03:17
+Nyan Cat said Hmm at 18:03:34
+Nyan Cat said You could ig at 18:03:37
+Nyan Cat said Would make it fairer at 18:03:42
+Alvuu said <:hmm:690909372338929674> at 18:03:55
+Alvuu said we do level up at 18:03:59
+Alvuu said fast, at 18:04:00
+Nyan Cat said Also, I know this would greatly reduce server members, but you should probably prune the server at 18:04:03
+Alvuu said make it more slow, at 18:04:04
+Nyan Cat said Yeah, it was linear before so it would take the same amount of XP to level up from 499 to 500 as to lev up from 0 to 1, HR3 changed that now at 18:04:41
+Nyan Cat said It should become slower as you go along at 18:04:51
+HR3Edits said it would remove around 600 users lmao at 18:05:32
+Nyan Cat said Yeah, idk, it just seems like an unnecessary amount of people at 18:06:05
+HR3Edits said I did the reset at 18:06:14
+HR3Edits said 😦 at 18:06:23
+Nyan Cat said !lb at 18:06:24
+HR3Edits said !leaderboard at 18:06:28
+Nyan Cat said I'm winning :0 at 18:06:36
+Nyan Cat said Lmao at 18:06:38
+HR3Edits said haha 😄 at 18:06:40
+HR3Edits said I can cheat tho at 18:06:45
+HR3Edits said watch this at 18:06:47
+Nyan Cat said Don't you dare lmao at 18:06:55
+HR3Edits said 😄 at 18:06:59
+Nyan Cat said You'll reset your level anyways tjougtbhh at 18:07:08
+HR3Edits said F it uses a float at 18:07:08
+Nyan Cat said Though tbh at 18:07:11
+HR3Edits said !leaderboard at 18:07:12
+Nyan Cat said Lmao at 18:07:15
+HR3Edits said 😄 at 18:07:50
+HR3Edits said !leaderboard at 18:07:57
+HR3Edits said haha I will reset mine soon 🙂 at 18:08:21
+Nyan Cat said Yeah at 18:08:24
+Nyan Cat said Ok at 18:08:25
+HR3Edits said !leaderboard at 18:08:29
+HR3Edits said wow this will take a lot of time now at 18:08:39
+HR3Edits said 10015 = level 25 at 18:08:47
+HR3Edits said you get 25 xp per messages at 18:09:00
+Nyan Cat said Hmm, well if people want to get to the top then it will become competitive at 18:09:12
+HR3Edits said its actually not that hard at 18:09:25
+HR3Edits said 400 messages at 18:09:27
+Nyan Cat said But if we are looking higher up at 18:09:59
+HR3Edits said never mind it gives 5 xp at 18:10:02
+Alvuu said ee at 18:10:07
+Nyan Cat said Getting to 50 would be hard at 18:10:07
+Nyan Cat said 2k** at 18:10:18
+HR3Edits said its actually at 18:10:22
+HR3Edits said yeah at 18:10:23
+HR3Edits said and than it only adds xp every 25 seconds at 18:10:34
+HR3Edits said so you can't spam it at 18:10:42
+Nyan Cat said Yeah, that's a good countermeasure at 18:10:54
+HR3Edits said if you would time everything correct it would take about 16 hours at 18:12:40
+HR3Edits said you can send 2 registered messages per min which is 120 per hour, divide 2000 by 120 and you get 16 hours at 18:13:36
+HR3Edits said should I decrease it a bit? at 18:13:45
+HR3Edits said test at 18:14:58
+Nyan Cat said But you can send more than 100 messages in 50 minutes at 18:15:02
+Nyan Cat said And it count them at 18:15:07
+HR3Edits said It would take a insane amount of time to get to level 25 at 18:15:41
+Nyan Cat said True at 18:15:48
+HR3Edits said 20000 xp is level 35 at 18:15:56
+HR3Edits said imagine trying to get to 50 at 18:16:03
+Nyan Cat said Maybe make it give 10-20 XP per message it registers at 18:16:07
+Nyan Cat said Or like 10-25 at 18:16:18
+alexander YT 955 said Hi, I'm new, I want to know how to download the world edit addon? they help me at 18:16:18
+Nyan Cat said !download at 18:16:34
+Nyan Cat said If you are on mobile use the no ui version and create a server using something like aternos to make it work at 18:16:54
+Nyan Cat said On PC or Laptop you can just use it at 18:17:08
+Nyan Cat said On console you can't at 18:17:12
+alexander YT 955 said but what do I have to do ? at 18:17:38
+HR3Edits said It gives 20 xp right now at 18:17:41
+HR3Edits said should be better at 18:18:02
+Nyan Cat said !video at 18:18:06
+alexander YT 955 said to download at 18:18:06
+Nyan Cat said Use those videos at 18:18:14
+alexander YT 955 said ok at 18:18:20
+HR3Edits said tt at 18:18:23
+Nyan Cat said We'll see how it goes at 18:18:25
+HR3Edits said wad at 18:18:29
+HR3Edits said wad at 18:18:30
+HR3Edits said wad at 18:18:31
+Nyan Cat said If you need any additional help, just ask at 18:18:40
+HR3Edits said Welcome! at 18:18:43
+HR3Edits said Yuppp at 18:18:51
+HR3Edits said tt at 18:34:14
+HR3Edits said w at 18:34:37
+HR3Edits said wa at 18:35:08
+HR3Edits said mooi eem at 18:46:11
+alexander YT 955 said They do not have a video in Spanish because I am from Ecuador and I do not understand this, what I am writing is in google translator at 23:53:44
+alexander YT 955 said <@!789597864510619658> help at 00:05:22
+donut man said !download at 01:06:46
+noel123 said !nsfw at 03:03:01
+noel123 said !nsfw at 03:03:14
+alexander YT 955 said Una pregunta entienden español at 03:03:14
+noel123 said Yo si at 03:03:22
+alexander YT 955 said Ok at 03:03:34
+alexander YT 955 said Cómo activo el modo experimental at 03:03:51
+noel123 said Antes de crear el mundo te vas abajo del crativo te salen experimentos y activas todos menos el de cuevas y acantilados at 03:05:01
+alexander YT 955 said Ok gracias at 03:05:17
+noel123 said !nsfw at 03:05:19
+alexander YT 955 said Por la ayuda at 03:05:22
+noel123 said !nfsw at 03:05:27
+alexander YT 955 said Me ayudan pongom bloke y no sale nada y si tengo puesto el experimental ?? at 03:26:30
+Nyan Cat said Oh, OK, it was 1 am when you sent that so I didn't see, do you need help on how to download it, how to use it in Minecraft, and what platform are you using, mobile phone or laptop or pc at 06:03:15
+HR3Edits said Welcome! at 08:01:19
+HR3Edits said I will see what I can do at 08:01:55
+HR3Edits said !meme at 08:02:24
+HR3Edits said !meme at 08:02:42
+Alvuu said !nfsw at 09:22:14
+Alvuu said rip at 09:22:19
+HR3Edits said we hit the 1000 users (mostly in active) but still haha at 10:32:45
+HR3Edits said !nsfw at 10:33:09
+HR3Edits said I am working on the bot so there can be some down time at 10:33:22
+IMMoOocus said Could you also turn off notifications on this channel too? at 10:33:49
+HR3Edits said that is something you can do yourself at 10:35:04
+F011a Perros Muertos said Wtf at 11:04:55
+F011a Perros Muertos said This was not a minecraft server xd at 11:05:33
+Trav Trav said People in 2021 really saying XD? at 11:06:02
+Trav Trav said 💀 at 11:06:09
+IMMoOocus said Yes, xD at 11:06:11
+F011a Perros Muertos said Yes at 11:06:16
+Trav Trav said I thought that died in 2017 lmao at 11:06:28
+F011a Perros Muertos said It is also latam we use it more at 11:07:43
+Trav Trav said Latam?? at 11:08:05
+F011a Perros Muertos said Latatino america at 11:08:18
+Trav Trav said Oh, I see at 11:08:34
+idodij said !nsfw at 13:42:35
+idodij said !nsfw at 13:42:49
+idodij said !nsfw at 13:43:00
+idodij said !nsfw at 13:43:11
+HR3Edits said Welcome! at 15:14:57
+alexander YT 955 said Pero si puedo hablar en español at 15:26:09
+alexander YT 955 said Y necesito ayuda para como usarlo y estoy en una tablet at 15:26:57
+Nyan Cat said So what you need to do, is search up aternos and use it to create a server, then, you need to load the addon to the server. Finally, the version you must use is the version labeled "no ui" at 15:28:27
+Alvuu said it doesnt work at 15:29:00
+Alvuu said <@!789597864510619658> at 15:29:05
+Nyan Cat said What do you mean at 15:29:15
+Alvuu said aternos uses linux based servers at 15:29:43
+Alvuu said HR3edits at 15:29:47
+Alvuu said works on at 15:29:49
+Alvuu said Windows Based ones at 15:29:53
+Alvuu said i tried aternos at 15:29:57
+Alvuu said addon shows at 15:30:01
+Alvuu said but wont work at 15:30:03
+HR3Edits said every addon with scripts in fact 😄 at 15:30:17
+Alvuu said Yes at 15:30:27
+Alvuu said i even tried peep's furniture mod at 15:30:34
+Alvuu said model loaded at 15:30:37
+Alvuu said but script at 15:30:39
+Alvuu said doesnt at 15:30:40
+Alvuu said so it s at 15:30:42
+alexander YT 955 said Ok at 15:30:43
+Alvuu said all at 15:30:43
+Alvuu said glitchy at 15:30:46
+Nyan Cat said If you are on PC you don't need to use a server at 15:31:15
