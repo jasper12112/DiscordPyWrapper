@@ -1,0 +1,27 @@
+noel123 said Okay at 15:55:22
+Alvuu said will this work on the latest minecraft bedrock version at 16:14:52
+Alvuu said 1.17.34.02 at 16:14:58
+Kundarageze said If your on mobile no unless you run a server and use the no ui version but on pc it should work fine at 16:18:06
+Alvuu said Aternos at 16:20:55
+Alvuu said doesnt work at 16:20:56
+Alvuu said at all at 16:20:57
+Alvuu said i'm tired at 16:21:01
+Alvuu said of trying at 16:21:03
+Alvuu said <@!775943415439294504> can u help? at 16:21:56
+Alvuu said with this at 16:21:58
+Alvuu said can anyone help? at 16:23:26
+Alvuu said :(( at 16:23:27
+Alvuu said can anyone helpuu? at 16:23:43
+Alvuu said <:RemCry:888994479439220816> at 16:23:44
+Alvuu said it works locally on pc at 16:26:23
+Alvuu said but aternos at 16:26:26
+Alvuu said no luck at 16:26:28
+HR3Edits said Of course at 16:30:33
+HR3Edits said I am also working on a gaming lounge for this discord server, I currently host it as a repl.
+
+https://dcbotapi.hr3edits.repl.co/
+
+Feel free to take a look at the website. The login system works with discord.
+Currently the login is for assigning roles to your account for specific games.
+
+I do want to implement more in the website but I am currently out of ideas so feel free to throw in a suggestion. at 12:15:22

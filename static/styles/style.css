@@ -1,0 +1,237 @@
+/*
+ * Globals
+ */
+
+/* Links */
+a,
+a:focus,
+a:hover {
+  color: #fff;
+}
+
+/* Custom default button */
+.btn-default,
+.btn-default:hover,
+.btn-default:focus {
+  color: #333;
+  text-shadow: none; /* Prevent inheritence from `body` */
+  background-color: #fff;
+  border: 1px solid #fff;
+}
+.navbar-brand{
+    color:rgb(197, 150, 150) !important;
+}
+.color-r{
+    color:rgb(136, 77, 77) !important;
+}
+.color-b{
+    color:rgb(77, 91, 136) !important;
+}
+
+/*
+ * Base structure
+ */
+
+html,
+body {
+  height: 100%;
+  background-color: #333;
+}
+body {
+  color: #fff;
+  text-align: center;
+  text-shadow: 0 1px 3px rgba(0,0,0,.5);
+}
+.profile-pic{
+    height: 45px;
+    padding: .5rem 1rem;
+}
+.row-c{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    -ms-flex-wrap: wrap;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.nav-dark{
+    background-color: rgb(16, 16, 16) !important;
+}
+.bg-dark{
+    background-color: rgb(46, 46, 46) !important;
+}
+.btn-c{
+    width: 12rem;
+    border: 3px solid rgb(22, 22, 22);
+    background-color: rgb(16, 16, 16);
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: rgb(136, 77, 77);
+}
+.chat-msg{
+    width: 100%;
+    border: 2px solid rgb(34, 34, 34);
+    border-radius: 10px;
+    padding: 5px;
+    margin-top: 15px !important;
+    margin-bottom: 15px !important;
+    margin: 5px;
+}
+.user_button{
+    background-color: #fff;
+    margin: 0px;
+    color:#222222;
+}
+.flex-md-column{
+    flex-direction: row !important;
+}
+/* Extra markup and styles for table-esque vertical and horizontal centering */
+.site-wrapper {
+  display: table;
+  width: 100%;
+  height: 100%;
+  background-image: url("../images/background.jpg") !important;
+  box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.65) !important;
+  background-repeat: no-repeat;
+  background-size: cover;
+  /*height: 100%; */
+  /*min-height: 100%;*/
+}
+.site-wrapper-inner {
+  display: table-cell;
+  vertical-align: top;
+}
+.cover-container {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.border-checker{
+    border: 2px solid rgb(48, 48, 48);
+    border-radius: 10px;
+}
+/* Padding for spacing */
+.inner {
+  padding: 30px;
+}
+
+.scroller{
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+.h-50{
+    height: 50vh !important;
+}
+.logs{
+    background-color: rgb(48, 48, 48);
+    width: 40vw;
+}
+.border-logs{
+    border: 2px solid rgb(44, 44, 44);
+    border-radius: 10px;
+}
+/*
+ * Cover
+ */
+
+.cover {
+  padding: 0 20px;
+}
+.cover .btn-lg {
+  padding: 10px 20px;
+  font-weight: bold;
+}
+
+/* Table */
+.border-l-10{
+    border-top-left-radius: 10px;
+}
+
+.border-r-10{
+    border-top-right-radius: 10px;
+}
+.styled-table{
+    font-size: 1.2rem;
+}
+.styled-table thead tr {
+    background-color: #243d5e;
+    color: #ffffff;
+    text-align: center;
+}
+
+.styled-table th,
+.styled-table td {
+    padding: 12px 15px;
+}
+
+.styled-table tbody tr {
+    border-bottom: 1px solid #dddddd;
+    background-color: #222222;
+}
+
+.styled-table tbody tr:nth-of-type(even) {
+    background-color: #383838;
+}
+
+.styled-table tbody tr:last-of-type {
+    border-bottom: 2px solid #243d5e;
+}
+
+.styled-table tbody tr.active-row {
+    font-weight: bold;
+    color: #009879;
+}
+.w-25-50-p{
+    width: 25% !important;
+}
+
+/*
+ * Affix and center
+ */
+
+@media (min-width: 768px) {
+  /* Start the vertical centering */
+  .site-wrapper-inner {
+    vertical-align: middle;
+  }
+}
+@media (max-width: 768px) {
+    /* Pull out the header and footer */
+    .masthead {
+        position: fixed;
+        top: 0;
+    }
+    /* Start the vertical centering */
+    .site-wrapper-inner {
+        vertical-align: middle;
+    }
+
+    .row-c{
+        display: block;
+        -ms-flex-wrap: wrap;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+    .logs{
+        width: 90vw;
+        margin-left: auto !important;
+        margin-right: auto !important;
+        margin-bottom: 1rem;
+    }
+    .w-25-50-p{
+        width: 50% !important;
+    }
+    .flex-md-column{
+        flex-direction: column !important;
+    }
+    #logs-cover{
+        margin-top: 5rem;
+    }
+    .selector-board{
+        width: 80% !important;
+    }
+    .site-wrapper {
+        background-image: url("../images/background-p.jpg") !important;
+        background-size: cover;
+    }
+}

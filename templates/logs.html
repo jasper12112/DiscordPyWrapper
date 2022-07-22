@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='styles/style.css') }}">
+
+    <title>HR3Lounge</title>
+  </head>
+  <body>
+    <nav class="navbar fixed-top navbar-expand-lg navbar-dark nav-dark">
+        <a class="navbar-brand" href="#">Lounge</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/leaderboard">Leaderboard</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/gaming">Gaming</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/points">Points</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="#">Staff<span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link disabled" href="#">Contact</a>
+                </li>
+            </ul>
+            <ul class="navbar-nav">
+                {% if current_user %}
+                <li class="nav-item flex row-c">
+                    <a class="nav-link" href="/logout">Logout</a>
+                    <img class="profile-pic" src="{{current_user.avatar_url}}" alt="">
+                </li>
+                {% else %}
+                <li class="nav-item flex row-c">
+                    <a class="nav-link" href="{{OATH_URL}}">Log in</a>
+                    <img class="profile-pic" src="{{ url_for('static',filename='images/default-profile.png') }}" alt="">
+                </li>
+                {% endif %}
+            </ul>
+        </div>
+    </nav>
+    <div class="site-wrapper">
+      <div class="site-wrapper-inner">
+        <div>
+          <div class="inner cover" id="logs-cover">
+              <h1 class="py-4">Admin panel</h1>
+              <div class="flex row flex-md-column justify-content-center">
+                <div class="scroller h-50 border-logs logs text-left mr-2">
+                    {%for i in range(length-1, 0, -1)%}
+                            <p class="pl-2 pt-2 chat-msg">{{lines[i]}}</p>
+                    {%endfor%}
+                </div>
+                <div class="logs border-logs h-50 ml-2">
+                    <div class="w-100">
+                        <div class="w-50 mx-auto selector-board overflow-hidden">
+                            <input class="w-100 mt-2" type="text" id="selector" placeholder="username..." autocomplete="">
+                            <div class="w-100" id="autocomp">
+                                
+                            </div>
+                            <input class="w-100 mt-4 mb-2" type="text" name="reason" id="reason" placeholder="Reason for action">
+
+                            <label class="w-100 text-left mb-0" for="action_select">Action:</label>
+                            <select class="w-100" name="action_select" id="action_select">
+                                <option value="warn">Warn</option>
+                                <option value="mute">Mute</option>
+                            </select>
+
+                            <button class="mt-2" id="action_button">Take action!</button>
+                        </div>
+                    </div>
+                        
+                    <input type="hidden" id="selectorid" name="selectorid" value="0">
+                </div>
+              </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <link rel="stylesheet" <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script src="{{ url_for('static',filename='javascript/autocomp.js') }}"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+  </body>
+</html>

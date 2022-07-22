@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='styles/style.css') }}">
+
+    <title>HR3Lounge</title>
+  </head>
+  <body>
+    <nav class="navbar fixed-top navbar-expand-lg navbar-dark nav-dark">
+        <a class="navbar-brand" href="#">Lounge</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/leaderboard">Leaderboard</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link active" href="#">Gaming<span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/points">Points</a>
+                </li>
+                {% if '778547890863472640' in roles %}
+                <li class="nav-item">
+                    <a class="nav-link" href="/logs">Staff</a>
+                </li>
+                {% endif %}
+                <li class="nav-item">
+                    <a class="nav-link disabled" href="#">Contact</a>
+                </li>
+            </ul>
+            <ul class="navbar-nav">
+                {% if current_user %}
+                <li class="nav-item flex row-c">
+                    <a class="nav-link" href="/logout">Logout</a>
+                    <img class="profile-pic" src="{{current_user.avatar_url}}" alt="">
+                </li>
+                {% else %}
+                <li class="nav-item flex row-c">
+                    <a class="nav-link" href="{{OATH_URL}}">Log in</a>
+                    <img class="profile-pic" src="{{ url_for('static',filename='images/default-profile.png') }}" alt="">
+                </li>
+                {% endif %}
+            </ul>
+        </div>
+    </nav>
+    <div class="site-wrapper">
+      <div class="site-wrapper-inner">
+        <div class="container">
+          <div class="inner cover">
+            <h1 class="pb-3">Gaming interests!</h1>
+            <form action="/gaming" method="POST">
+                <div class="w-50 mx-auto border-checker">
+                    <div class="form-check pt-2 text-left pl-5">
+                        {% if game_roles['warzone'] in roles %}
+                        <input type="checkbox" class="form-check-input" id="warzone" name="warzone" checked>
+                        {% else %}
+                        <input type="checkbox" class="form-check-input" id="warzone" name="warzone">
+                        {% endif %}
+                        <label class="form-check-label" for="warzone">Warzone</label>
+                    </div>
+                    <div class="form-check text-left pl-5">
+                        {% if game_roles['minecraft'] in roles %}
+                        <input type="checkbox" class="form-check-input" id="minecraft" name="minecraft" checked>
+                        {% else %}
+                        <input type="checkbox" class="form-check-input" id="minecraft" name="minecraft">
+                        {% endif %}
+                        <label class="form-check-label" for="minecraft">Minecraft</label>
+                    </div>
+                    <div class="form-check text-left pl-5">
+                        {% if game_roles['ark'] in roles %}
+                        <input type="checkbox" class="form-check-input" id="ark" name="ark" checked>
+                        {% else %}
+                        <input type="checkbox" class="form-check-input" id="ark" name="ark">
+                        {% endif %}
+                        <label class="form-check-label" for="ark">Ark</label>
+                    </div>
+                    <div class="form-check text-left pl-5">
+                        {% if game_roles['rust'] in roles %}
+                        <input type="checkbox" class="form-check-input" id="rust" name="rust" checked>
+                        {% else %}
+                        <input type="checkbox" class="form-check-input" id="rust" name="rust">
+                        {% endif %}
+                        <label class="form-check-label" for="rust">Rust</label>
+                    </div>
+                    <div class="form-check pb-2 text-left pl-5">
+                        {% if game_roles['roblox'] in roles %}
+                        <input type="checkbox" class="form-check-input" id="roblox" name="roblox" checked>
+                        {% else %}
+                        <input type="checkbox" class="form-check-input" id="roblox" name="roblox">
+                        {% endif %}
+                        <label class="form-check-label" for="roblox">Roblox</label>
+                    </div>
+                </div>
+                <button type="submit" class="btn btn-primary mt-3 w-25-50-p">Submit</button>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+  </body>
+</html>
